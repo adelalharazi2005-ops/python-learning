@@ -1,10 +1,10 @@
 # My first Python program
 
-name = "Adel"
-country = "Yemen"
+name = input("What is your name?") 
+country = input("Where are you from?") 
 dream = "AI Engineer"
-age = 20
-favorite_sport = 'football'
+age = input("How old are you?") 
+favorite_sport = input("What is your favorite sport?") 
 
 print("Hello!")
 print("My name is", name)
