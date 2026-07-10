@@ -1,4 +1,10 @@
-print("Hello, World!")
-print("My name is Adel.")
-print("I am learning Python.")
-print("One day I will become an AI Engineer.")
+# My first Python program
+
+name = "Adel"
+country = "Yemen"
+dream = "AI Engineer"
+
+print("Hello!")
+print("My name is", name)
+print("I am from", country)
+print("My dream is to become an", dream)
